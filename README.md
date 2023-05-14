@@ -30,3 +30,7 @@ which the bank offers to its clients; more credit cards can be issued to an acco
 one loan can be granted for an account. Relation "demographic data" gives some publicly 
 available information about the districts (e.g. the unemployment rate); additional
 information about the clients can be deduced from this.
+
+
+K-Nearest Neighbors (KNN) Algorithm
+K-Nearest Neighbors (KNN) is one of the simplest algorithms used in Machine Learning for regression and classification problem. KNN algorithms use data and classify new data points based on similarity measures (e.g. distance function). Classification is done by a majority vote to its neighbors. The data is assigned to the class which has the nearest neighbors. As you increase the number of nearest neighbors, the value of k, accuracy might increase.
